@@ -65,12 +65,13 @@ public class CardTrick {
      * @author HARSH BHALALA Jan 2024
      * @author HARSH BHALALA 26 jan 2024
      */
+
+    // I AM DONE 
     private static void printInfo() {
         System.out.println("Congratulations,!");
         System.out.println();
         System.out.println("My name is HARSH, HELLO");
         System.out.println();
-        /*
         System.out.println("My career ambitions:");
         System.out.println("-- Be more active on LinkedIn");
         System.out.println("-- Have a semester with no violations of academic integrity!");
@@ -80,6 +81,6 @@ public class CardTrick {
         System.out.println("-- Cooking");
         System.out.println("-- Reading/Watching TV");
         System.out.println("-- Riding my motorcycle");
-        System.out.println();*/
+        System.out.println();
     }
 }
